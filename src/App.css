@@ -2,3 +2,10 @@
   text-align: center;
 }
 
+.button {
+  background-color: aquamarine;
+  font: inherit;
+  border: 1px blue solid;
+  padding: 8px;
+  cursor: pointer;
+}
